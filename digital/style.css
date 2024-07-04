@@ -1,0 +1,80 @@
+
+.ram{
+    border:2px solid;
+}
+.row{
+    padding: 0;
+}
+.logopic{
+    height: 150px;
+    width:180px;
+}
+.menu{
+
+align-items: center;
+justify-content: center;
+padding: 20px;
+
+
+}
+.menu li{
+display: inline-block;
+padding: 20px;
+
+}
+.color{
+    background-color: wheat;
+}
+.poster{
+    margin-left: 40px;
+}
+
+body,footer{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: wheat;
+    
+    padding: 20px 0;
+}
+
+/* .card{
+    height: 610px;
+    width:610px;
+} */
+/* gallary */
+.gl{
+height:100px;
+width:220px;
+
+}
+
+.imgpic{
+height:290px;
+width:300px;
+}
+
+.frm{
+
+opacity:.5;
+}
+.btc{
+margin-left:230px;
+}
+
+/* background register */
+.rambk{
+
+background-size:cover;
+background-image:url("/static/css/back3.jpg");
+background-repeat:no-repeat;
+}
+/* background login */
+.backlg{
+
+background-size:cover;
+background-image:url("static/css/back6.webp");
+background-repeat:no-repeat;
+}
+
